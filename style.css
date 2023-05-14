@@ -1,0 +1,28 @@
+:root{
+    -- letra_maior: 700;
+    -- letra_menor: 400;
+    -- branco_principal: 0%, 0%, 100%
+
+}
+body {
+    text-align: center;
+    font-family: 'Outfit';
+    background-color: hsl(var(--branco_principal));
+    
+}
+.qr_code{ 
+    border-image-width: 1440px;
+}
+
+h1{
+    font-weight: 700;
+}
+
+.subtitulo{
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(212, 45%, 89%);
+}
+
+body{
+}
